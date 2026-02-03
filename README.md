@@ -9,7 +9,7 @@ The rise of Generative Adversarial Networks (GANs) has enabled the creation of h
     * `STFT/`: Short-Time Fourier Transform visual representations.
     * `Mel-spectrograms/`: Log-mel scaled frequency images.
     * `MFCCs/`: Mel-Frequency Cepstral Coefficients.
-* **`sample_data.zip`**: Contains raw `.wav` audio files organized into `real` and `fake` folders.
+* **`Sample Dataset.zip`**: Contains raw `.wav` audio files organized into `real_audio` and `fake_audio` folders.
 
 ## 📊 Audio-to-Image Representations
 To leverage high-performance classification models, raw audio signals are transformed into three distinct 2D visual formats:
